@@ -1,4 +1,4 @@
-# custom-HTTP
+# Create custom server using HTTP
 
 A lightweight and customizable HTTP server built using **Node.js**, **Express.js**, and managed with **Nodemon** for a seamless development experience.
 
